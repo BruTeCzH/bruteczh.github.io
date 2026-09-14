@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bruteczh.github.io/zhouya-erp/sitemap.xml
