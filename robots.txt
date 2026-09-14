@@ -13,4 +13,4 @@ Allow: /
 User-agent: bingbot
 Allow: /
 
-Sitemap: https://bruteczh.github.io/zhouya-erp/sitemap.xml
+Sitemap: https://bruteczh.github.io/sitemap.xml
