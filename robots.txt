@@ -1,4 +1,16 @@
 User-agent: *
 Allow: /
 
+User-agent: Bytespider
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: bingbot
+Allow: /
+
 Sitemap: https://bruteczh.github.io/zhouya-erp/sitemap.xml
